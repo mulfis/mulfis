@@ -9,8 +9,8 @@
 - 📫 You can reach me at <a href="https://www.linkedin.com/in/m-luthfi-assidiq-0b978a241">LinkedIn</a>
 - Chat me if you need something.
 
-Also, please don't tell Yuuka im used Noa as my Profile pic
-pic by: @SuperSugar1003
+<p>Also, please don't tell Yuuka im used Noa as my Profile pic</p>
+<p>pic by: @SuperSugar1003</p>
 <!---
 Ronexts/Ronexts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
