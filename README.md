@@ -1,15 +1,20 @@
-[![An image of @ronexts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronexts)](https://holopin.io/@ronexts)
+![](https://media1.tenor.com/m/c1dvVKdhThIAAAAC/shigure-ui-dance.gif)
 
-<h1>DINO AJUR</h1>
+You will beamed by Ui if you stay in my profile too long
 
-- 👋 Hi, I’m <b>Luthfi</b> or you can call me <i>nek</i> (ronext) or <i>fi</i> (mulfis)
+<br>
+
+<h1>My Mask</h1>
+
+- 👋 Hi, I’m <b>Roneks</b>, you can call me <i>nek</i> or <i>fi</i> (mulfis)
 - 👀 Still in university, but willing to work, maybe
-- 🌱 Currently learning JS and Py
-- 💞️ Looking to collaborate on Anything
-- 📫 You can reach me at <a href="https://www.linkedin.com/in/m-luthfi-assidiq-0b978a241">LinkedIn</a>
-- Chat me if you need something.
+- 🌱 I can do frontend web, currently learning JS and Py
+- 💞️ Looking to collaborate on AnYthINg
+- 📫 You can reach me at The Void, DM me if you need something.
 
+<br>
 
+![bye](https://media1.tenor.com/m/Dxsaz8EK0-QAAAAC/hiyori-blue-archive.gif)
 
 <!---
 Ronexts/Ronexts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
