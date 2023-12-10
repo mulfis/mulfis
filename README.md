@@ -6,7 +6,7 @@ You will beamed by Ui if you stay in my profile too long
 
 <h1>My Mask</h1>
 
-- 👋 Hi, I’m <b>Roneks</b>, you can call me <i>nek</i> or <i>fi</i> (mulfis)
+- 👋 Hi, I’m <b>Luthfi</b>, you can call me <i>nek</i> (roneks) or <i>fi</i> (mulfis)
 - 👀 Still in university, but willing to work, maybe
 - 🌱 I can do frontend web, currently learning JS and Py
 - 💞️ Looking to collaborate on AnYthINg
