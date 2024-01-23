@@ -15,6 +15,7 @@ You will beamed by Ui if you stay in my profile too long
 <br>
 
 <b>Why do i use Tailwind?</b> Of course i can write the vanilla code, but if you see the name Taild WInd, how cool is it? The wind have a tail to give the web some styling
+<br>
 just joking, i chose it because its easy to use and flexible
 
 <br>
