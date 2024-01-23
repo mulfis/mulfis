@@ -4,17 +4,22 @@ You will beamed by Ui if you stay in my profile too long
 
 <br>
 
-<h1>Me?</h1>
+<h1>About me</h1>
 
-- 👋 Hi, I’m <b>Luthfi</b>, you can call me <i>nek</i> (roneks) or <i>fi</i> (mulfis)
+- 👋 Hi, I’m <b>Luthfi</b>, you can call me anything you prefer
 - 👀 Still in university, but willing to work, maybe
-- 🌱 I can do frontend web, currently learning JS and Py
-- 💞️ Looking to collaborate on AnYthINg
+- 🌱 I can do frontend web, currently learning JS and Py, frequently using Django dan Tailwind
+- 💞️ Looking to collaborate on anything, im serious
 - 📫 You can reach me at.. idk, just DM me if you need something.
 
 <br>
 
-if you want to know me more, try to look my <a href="https://mulfis.github.io">Web Profile</a>
+<b>Why do i use Tailwind?<b> Of course i can write the vanilla code, but if you see the name Taild WInd, how cool is it? The wind have a tail to give the web some styling
+just joking, i chose it because its easy to use and flexible
+
+<br>
+
+if you want to know me more, try to look my <a href="https://mulfis.github.io">Web Profile</a> (its not done yet)
 
 <br>
 
