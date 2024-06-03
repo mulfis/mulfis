@@ -8,7 +8,7 @@ You will beamed by Ui if you stay in my profile too long
 
 - 👋 Hi, I’m <b>Luthfi</b>, you can call me anything you prefer
 - 👀 Still in university, but willing to work, maybe
-- 🌱 I can do frontend web, currently learning JS and Py, frequently using Django dan Tailwind
+- 🌱 I can do web dev, currently learning JS and Py, frequently using Django as Backend and Tailwind as Style Framework
 - 💞️ Looking to collaborate on anything, im serious
 - 📫 You can reach me at.. idk, just DM me if you need something.
 
