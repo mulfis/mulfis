@@ -18,7 +18,7 @@ My best project? For now, <a href="https://arpay.vercel.app">Arpay</a> is my bes
 
 <br>
 
-If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a>.
+If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a> (Outdated ver. i'll updating soon.
 
 <br>
 
