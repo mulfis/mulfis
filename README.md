@@ -1,8 +1,8 @@
-![](https://github.com/mulfis/mulfis/blob/main/output.gif)
+<!-- [](https://github.com/mulfis/mulfis/blob/main/output.gif)
 
 You will beamed by Ui if you stay in my profile too long
 
-<br>
+<br> -->
 
 <h1>About me</h1>
 
