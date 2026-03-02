@@ -21,6 +21,13 @@ My best project? For now, <a href="https://arpay.vercel.app">Arpay</a> is my bes
 If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a> (Outdated ver. i'll updating soon.)
 
 <br>
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" width="128" />
+          
+          
+          
 <!---
 Ronexts/Ronexts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
