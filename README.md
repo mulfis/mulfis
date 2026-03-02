@@ -6,9 +6,9 @@ You will beamed by Ui if you stay in my profile too long
 
 <h1>About me</h1>
 
-- 👋 Hi, I’m <b>Luthfi</b>, you can call me anything you prefer. Full stack web developer, but more prefer frontend, because i like design.
+- 👋 Hi, I’m <b>Luthfi</b>, you can call me anything you prefer. Fullstack web developer, but more advanced at Frontend.
 - 👀 Bachelor Degree in Informatics Engineering from Sebelas April University and willing to work, with any programming language.
-- 🌱 I'm familiar with web dev, currently learning TypeScript, frequently using Vue and Tailwind. I can use monolithic framework such as Django and CodeIgniter 3, or databases like SQL and Postgree, i'll learn another framework if needed.
+- 🌱 I'm familiar with web dev, currently learning TypeScript, frequently using Nuxt and Tailwind. I can use monolithic framework such as Django and CodeIgniter 3, or databases like SQL and Postgree, i'll learn another framework if needed.
 - 💞️ Looking to collaborate on anything programming related, im serious.
 - 📫 You can reach me at email or linkedin.
 
