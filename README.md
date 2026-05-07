@@ -14,14 +14,9 @@ You will beamed by Ui if you stay in my profile too long
 
 <br>
 
-My best project? For now, <a href="https://arpay.vercel.app">Arpay</a> is my best one, this project is still live and on-going. Its use Django, vercel, and htmx.
-
-<br>
-
 If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a> (Outdated ver. i'll updating soon.)
 
 <br>
-
 
 <h3>Everyday Usage</h3>
 
