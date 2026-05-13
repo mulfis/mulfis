@@ -12,7 +12,6 @@ You will beamed by Ui if you stay in my profile too long
 - 💞️ Looking to collaborate on anything programming related, im serious.
 - 📫 You can reach me at email or linkedin.
 
-<br>
 
 If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a> (Outdated ver. i'll updating soon.)
 
