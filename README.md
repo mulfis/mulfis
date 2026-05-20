@@ -4,6 +4,8 @@ You will beamed by Ui if you stay in my profile too long
 
 <br> -->
 
+[![An image of @ronexts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronexts)](https://holopin.io/@ronexts)
+
 <h1>About me</h1>
 
 - 👋 Hi, I’m <b>Luthfi</b>, you can call me anything you prefer. Fullstack web developer, but more advanced at Frontend.
