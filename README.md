@@ -15,8 +15,6 @@ You will beamed by Ui if you stay in my profile too long
 - 📫 You can reach me at email or linkedin.
 
 
-If you want to know more about me, try to hop at my <a href="https://mulfis.github.io">Portofolio Website</a> (Outdated ver. i'll updating soon.)
-
 <br>
 
 <h3>Everyday Usage</h3>
